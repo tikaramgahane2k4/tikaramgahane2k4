@@ -1,20 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Tikaram</h1>
-<h3 align="center">A passionate Web Developer and Python Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi there 👋, I'm Tikaram Gahane</h1>
+<h3 align="center">Aspiring Web Developer | Python & Flask Enthusiast | India 🇮🇳</h3>
 
-- 🔭 I’m currently working on Flask web apps
-- 🌱 I’m learning Full Stack Development
-- 👯 I’m looking to collaborate on Open Source Python projects
-- 💬 Ask me about Python, Flask, HTML, CSS, Web Scraping
+🌱 I’m currently learning Full Stack Web Development  
+🔭 I’m building projects with Python, Flask, HTML, and CSS  
+💬 Ask me about Web Development, Python, Flask, Web Scraping  
+📫 Reach me at: tikaram@example.com (replace with your real email)  
+👀 I love building real-world projects and exploring new technologies  
 
 ---
 
-### 🛠️ Languages & Tools I Use:
+### 🧠 Skills I Work With:
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git & GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -27,23 +29,19 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Contribution Streak
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tikaramgahane2k4&theme=radical" />
 </p>
 
 ---
 
-### ☕ Buy Me a Coffee
-<a href="https://www.buymeacoffee.com/tikaramgahane2k4" target="_blank">
-  <img src="https://img.shields.io/badge/Buy me a coffee-FC466B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+### ☕ Support My Work (Optional)
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Buy me a coffee-FC466B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </a>
-
-
-- 📍 India
-- ✉️ Email: gahanepawan07@gmail.com  
-- 🌐 Portfolio: https://tikaramgahane2k4.github.io/Portfolio/
 
 ---
 
-<p align="center">Thanks for visiting! ✨</p>
+⭐ Thank you for visiting my profile!
+
