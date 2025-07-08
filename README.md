@@ -41,7 +41,7 @@
 
 
 - 📍 India
-- ✉️ Email: your-email@example.com  
+- ✉️ Email: gahanepawan07@gmail.com  
 - 🌐 Portfolio: https://tikaramgahane2k4.github.io/Portfolio/
 
 ---
