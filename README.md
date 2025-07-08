@@ -4,7 +4,6 @@
 🌱 I’m currently learning Full Stack Web Development  
 🔭 I’m building projects with Python, Flask, HTML, and CSS  
 💬 Ask me about Web Development, Python, Flask, Web Scraping  
-📫 Reach me at: tikaram@example.com (replace with your real email)  
 👀 I love building real-world projects and exploring new technologies  
 
 ---
