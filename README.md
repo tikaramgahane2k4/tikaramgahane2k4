@@ -22,9 +22,11 @@
 ---
 
 ### 📊 My GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tikaramgahane2k4&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikaramgahane2k4&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tikaramgahane2k4&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikaramgahane2k4&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
