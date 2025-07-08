@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tikaramgahane2k4.github.io/Portfolio/](https://tikaramgahane2k4.github.io/Portfolio/)
 
-- - ⚡ Fun fact **I believe every bug teaches you something new!**
+- ⚡ Fun fact **I believe every bug teaches you something new!**
 
 - 📫 How to reach me **gahanepawan07@gmail.com**
 
