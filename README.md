@@ -6,8 +6,7 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tikaramgahane2k4&label=Profile%20views&color=0e75b6&style=flat" alt="tikaramgahane2k4" /> </p>
-
-- 🌱 I’m currently learning **Flask, APIs, JavaScript**
+- 🌱 I’m currently learning **FastAPI and React**
 
 - 🔭 I’m working on full-stack web projects and personal automation tools  
 
